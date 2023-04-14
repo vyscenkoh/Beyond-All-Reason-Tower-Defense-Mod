@@ -27,13 +27,16 @@ Game Rules:
 4. Energy converter limit to 50 per type per player.
 
 How can I made an awesome mod by myself?
+
 Copy the above string and decode it using https://www.base64decode.org/. Use the code as an example to guide yourself. 
 
 Where can I find documentation for tweakdefs?
+
 There isnt any. But here a few helpful links that can help you.
 https://springrts.com/wiki/Gamedev:Main
 
 https://github.com/beyond-all-reason/Beyond-All-Reason/tree/master/units
 
 How far can you mod it?
+
 The only successful modification are UnitDefs, nothing else. I have no idea how to get Player Count, Game time, etc. I cant do much either.
